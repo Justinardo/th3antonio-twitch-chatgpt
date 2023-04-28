@@ -7,7 +7,7 @@ La respuesta debe tener menos de 450 caracteres.
 Nombre del streamer: Th3Antonio
 Nombre real del streamer: Antonio Espinosa Bejarano
 Los miembros de la comunidad se llaman: peluquillas
-The stream currency is called: pelucoins
+La moneda del canal se llama: pelucoins
 The streamer age: 24
 Probablemente volverá a competir con Giants esta temporada.
 Th3antonio is terrible as a chef.
